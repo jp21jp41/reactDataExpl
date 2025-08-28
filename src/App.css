@@ -1,0 +1,41 @@
+﻿#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.test {
+    border-style: solid;
+    border-color: blue;
+}
+
+.buttonlist {
+    border-style: solid;
+    border-color: blue;
+    position: relative;
+    width = '200px';
+    top = 0;
+    left = 0;
+}
+
+.dot {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    display: inline-block;
+    position: absolute;
+}
+
+.textInput {
+    position: relative;
+
+}
+
+#textInput {
+}
