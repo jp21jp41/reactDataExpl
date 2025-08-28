@@ -52,3 +52,6 @@ export default tseslint.config({
   },
 })
 ```
+
+# Direct from the Developer:
+This project was created using the React App with Typescript in Visual Studio. Attention should be directed to App.tsx and App.css, where code development has taken place. On top of the React App template, the current form has reached the point of allowing the user to access a "Model Comparison" section, with canvases and corresponding inputs and Submit buttons.
